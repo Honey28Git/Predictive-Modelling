@@ -29,14 +29,14 @@ You are hired by a tour and travel agency which deals in selling holiday package
 
 Dataset for Problem 2: Holiday_Package.csv
 
-Data Dictionary:
+| Variable Name | Description |
+| ------------- | ----------- |
+| Holiday_Package | Opted for Holiday Package yes/no? |
+ | Salary | Employee salary |
+| age 	| Age in years |
+| edu | Years of formal education |
+|no_young_children | The number of young children (younger than 7 years)|
+| no_older_children | Number of older children |
+| foreign | foreigner Yes/No |
 
-•	Variable Name: Description
-•	Holiday_Package:	Opted for Holiday Package yes/no?
-•	Salary:	Employee salary
-•	age:	Age in years
-•	edu:	Years of formal education
-•	no_young_children:	The number of young children (younger than 7 years)
-•	no_older_children:	Number of older children
-•	foreign:	foreigner Yes/No
 
