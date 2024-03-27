@@ -7,17 +7,18 @@ You are hired by a company Gem Stones co ltd, which is a cubic zirconia manufact
 
 Data Dictionary:
 
-Variable Name	Description
-Carat	 Carat weight of the cubic zirconia.
-Cut	 Describe the cut quality of the cubic zirconia. Quality is increasing order Fair, Good, Very Good, Premium, Ideal.
-Color 	 Colour of the cubic zirconia.With D being the worst and J the best.
-Clarity	Clarity refers to the absence of the Inclusions and Blemishes. (In order from Worst to Best in terms of avg price) IF, VVS1, VVS2, VS1, VS2, Sl1, Sl2, l1
-Depth	 The Height of cubic zirconia, measured from the Culet to the table, divided by its average Girdle Diameter.
-Table	 The Width of the cubic zirconia's Table expressed as a Percentage of its Average Diameter.
-Price	 the Price of the cubic zirconia.
-X	 Length of the cubic zirconia in mm.
-Y	 Width of the cubic zirconia in mm.
-Z	 Height of the cubic zirconia in mm.
+•	Variable Name: Description
+•	Carat: Carat weight of the cubic zirconia.
+•	Cut:	Describe the cut quality of the cubic zirconia. Quality is increasing order Fair, Good, Very Good, Premium, Ideal.
+•	Color:	Colour of the cubic zirconia.With D being the worst and J the best.
+•	Clarity:	Clarity refers to the absence of the Inclusions and Blemishes. (In order from Worst to Best in terms of avg price) IF, VVS1, VVS2, VS1, VS2, Sl1, Sl2, l1
+•	Depth:	The Height of cubic zirconia, measured from the Culet to the table, divided by its average Girdle Diameter.
+•	Table:	The Width of the cubic zirconia's Table expressed as a Percentage of its Average Diameter.
+•	Price:	the Price of the cubic zirconia.
+•	X:	Length of the cubic zirconia in mm.
+•	Y:	Width of the cubic zirconia in mm.
+•	Z:	Height of the cubic zirconia in mm.
+
 
 Dataset for Problem 1: cubic_zirconia.csv
 
@@ -30,11 +31,12 @@ Dataset for Problem 2: Holiday_Package.csv
 
 Data Dictionary:
 
-Variable Name	Description
-Holiday_Package 	 Opted for Holiday Package yes/no?
-Salary 	 Employee salary
-age 	 Age in years
-edu 	 Years of formal education
-no_young_children 	 The number of young children (younger than 7 years)
-no_older_children 	 Number of older children
-foreign 	 foreigner Yes/No
+•	Variable Name: Description
+•	Holiday_Package:	Opted for Holiday Package yes/no?
+•	Salary:	Employee salary
+•	age:	Age in years
+•	edu:	Years of formal education
+•	no_young_children:	The number of young children (younger than 7 years)
+•	no_older_children:	Number of older children
+•	foreign:	foreigner Yes/No
+
